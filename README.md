@@ -1,2 +1,3 @@
-# SFND_Lidar_Obstacle_Detection_Data
-Data for SFND_Lidar_Obstacle_Detection
+# Data for SFND Lidar Obstacle Detection Project
+
+The code can be found in this [repository](https://github.com/zhujun98/sensor-fusion).
